@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Fixed
+- Add billingOptions type and availableCountries
+
 ## [0.1.2] - 2020-07-21
 ### Fixed
 - Removed unused files
